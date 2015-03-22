@@ -1,0 +1,186 @@
+[12-Feb-2015 05:03:13 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =utf-8;
+ name=&quot;text_0.txt&quot;
+Content-ID: &lt;text_0.txt&gt;
+Content-Location: text_0.t (errflg=3) in Unknown on line 0
+[12-Feb-2015 05:04:49 America/Denver] PHP Warning:  imap_open(): Couldn't open stream {box707.bluehost.com:143/imap} in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 4
+[12-Feb-2015 05:04:49 America/Denver] PHP Notice:  Unknown: Retrying PLAIN authentication after [AUTHENTICATIONFAILED] Authentication failed. (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:04:49 America/Denver] PHP Notice:  Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2) in Unknown on line 0
+[12-Feb-2015 05:04:49 America/Denver] PHP Notice:  Unknown: [CLOSED] IMAP connection broken (server response) (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:05:05 America/Denver] PHP Warning:  imap_open(): Couldn't open stream {box707.bluehost.com:143/imap} in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 4
+[12-Feb-2015 05:05:05 America/Denver] PHP Notice:  Unknown: Retrying PLAIN authentication after [AUTHENTICATIONFAILED] Authentication failed. (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:05:05 America/Denver] PHP Notice:  Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2) in Unknown on line 0
+[12-Feb-2015 05:05:05 America/Denver] PHP Notice:  Unknown: [CLOSED] IMAP connection broken (server response) (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:10:52 America/Denver] PHP Warning:  imap_open(): Couldn't open stream {box707.bluehost.com:143/imap} in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 4
+[12-Feb-2015 05:10:52 America/Denver] PHP Notice:  Unknown: Retrying PLAIN authentication after [AUTHENTICATIONFAILED] Authentication failed. (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:10:52 America/Denver] PHP Notice:  Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2) in Unknown on line 0
+[12-Feb-2015 05:10:52 America/Denver] PHP Notice:  Unknown: [CLOSED] IMAP connection broken (server response) (errflg=1) in Unknown on line 0
+[12-Feb-2015 05:11:00 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[12-Feb-2015 05:13:46 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[12-Feb-2015 05:20:58 America/Denver] PHP Notice:  Array to string conversion in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 37
+[12-Feb-2015 05:22:38 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 40
+[12-Feb-2015 05:22:38 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 40
+[12-Feb-2015 05:23:37 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[12-Feb-2015 05:23:37 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[12-Feb-2015 05:23:37 America/Denver] PHP Notice:  Array to string conversion in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 43
+[12-Feb-2015 05:23:53 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[12-Feb-2015 05:23:53 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[12-Feb-2015 05:23:53 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:41:06 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:41:06 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:41:06 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:25 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:25 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:25 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:27 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:27 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:27 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:28 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:28 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:28 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:29 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:29 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:29 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:30 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:30 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:30 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:32 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:32 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:32 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:34 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:34 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:34 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:40 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:40 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:40 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:52 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:52 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:52 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:50:55 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:55 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:50:55 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:51:01 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:51:01 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:51:01 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:51:11 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:51:11 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:51:11 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:52:45 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:52:45 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:52:45 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:54:25 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:54:25 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:54:25 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+test
+
+-- 
+Ryan M. Kazokas
+Software Developer
+
+&lt;https://plus.googl (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:55:03 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:55:03 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:55:03 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+test
+
+-- 
+Ryan M. Kazokas
+Software Developer
+
+&lt;https://plus.googl (errflg=3) in Unknown on line 0
+[15-Feb-2015 09:57:17 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:57:17 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 09:57:17 America/Denver] PHP Notice:  Unknown: Invalid quoted-printable sequence: =UTF-8
+
+0020000314:381234
+
+--001a113d592e7f77df050ee2f9b5
+Content-Type: text (errflg=3) in Unknown on line 0
+[15-Feb-2015 10:09:08 America/Denver] PHP Notice:  Undefined variable: num in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30
+[15-Feb-2015 10:09:08 America/Denver] PHP Warning:  imap_body(): Bad message number in /home2/ezvetnot/public_html/devjazz/parser/parseReceive.php on line 30

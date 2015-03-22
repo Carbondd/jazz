@@ -1,0 +1,1 @@
+[17-Jan-2015 09:28:24 America/Denver] PHP Fatal error:  Call to undefined method db::get_host() in /home2/ezvetnot/public_html/jazz/core/DAO/db.php on line 26

@@ -1,0 +1,151 @@
+body{
+	display:block;	
+}
+label {display: block;}
+#main_nav{margin-top:26px;}
+#top_bar{
+	background:#e2dcdc;
+	color:#333;
+	margin-bottom:20px; 
+	box-shadow:0px 3px 10px #888888
+} 
+.contact-information{margin-top:40px;}
+.nav-tabs>li.active>a{background:#428BCA !important; color:#FFF !important;}
+.fc-agenda-allday{display:none;}
+#top_bar_logo{ padding:10px;  display:inline-block; max-width:80%;}
+#top_bar_logo img{width:500px;max-width:100%;}
+#alert_icon{float:right; font-size:29px; padding:20px;}
+#footer{background:#333; color:#FFF; padding:20px; height:100px; margin-top:20px; width:100%;box-shadow:0px 3px 20px #888888}
+#footer a{color:#FFF;}
+#footer_copyright a{margin:5px 0;}
+#footer_copyright{text-align:center; color:#428BCA; font-weight:700; padding:10px; }
+
+.overlay{
+    position: fixed;
+    text-align:center;
+    z-index:1234;
+	opacity: 0.4;
+	background:#000;
+    overflow: auto;
+    width: 100%;
+    height: 100%; 
+}
+.loader {
+  font-size: 10px;
+  margin: 5em auto;
+  text-indent: -9999em;
+  position:fixed;
+  top:40%;
+  left:40%;
+  width: 11em;
+  z-index:99999999;
+  height: 11em;
+  border-radius: 50%;
+  background: #ffffff;
+  background: -moz-linear-gradient(left, #ffffff 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #ffffff 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #ffffff 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #ffffff 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #ffffff 10%, rgba(255, 255, 255, 0) 42%);
+  -webkit-animation: load3 1.4s infinite linear;
+  animation: load3 1.4s infinite linear;
+}
+.loader:before {
+  width: 50%;
+  height: 50%;
+  background: #FFF;
+  border-radius: 100% 0 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '';
+}
+.loader:after {
+  background: #0dcecb;
+  width: 75%;
+  height: 75%;
+  border-radius: 50%;
+  content: '';
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+@-webkit-keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load3 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+media print {
+    .printable {
+        background-color: white;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 15px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+ 
+.contact-set{margin-top:80px; background:#efeaea;}
+.contact-set table th{text-align:center !important;}
+
+.update-date-col{width:10%;}
+.update-passengers-col{width:6%;}
+.update-pickup-time-col{width:8%;}
+.update-duration-col{width:7%;}
+
+
+#userBar{
+	width:100%;
+	background:#0067a8;
+	color:#FFF;
+	padding:5px;
+	font-weight:700;
+	text-align:right;
+}
+#userBar a{
+	color:#FFF;
+}
+
+.delete-run-btn{
+	margin-top:62px !important;
+}
+
+.status-pickup{
+	background:#FFFF66;
+}
+
+.set-0{background:#f77979 !important;}
+.set-1{background:#e6ff7a !important;}
+.set-2{background:#3dff50 !important;}
+
+
+@media print {
+    # print-report-div {
+		
+       
+    }
+	.report-print-date{width:1% !important; font-size:25px !important;}
+}

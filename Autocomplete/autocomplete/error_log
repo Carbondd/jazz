@@ -1,0 +1,13 @@
+[20-Sep-2014 21:37:37 America/Denver] PHP Notice:  Undefined index: sport in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 3
+[20-Sep-2014 22:17:43 America/Denver] PHP Warning:  include(): Failed opening 'groupAutoComplete.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/index.php on line 7
+[20-Sep-2014 22:18:58 America/Denver] PHP Warning:  include(): Failed opening 'groupAutoComplete.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/index.php on line 7
+[20-Sep-2014 22:20:23 America/Denver] PHP Warning:  include(): Failed opening 'groupAutoComplete.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/index.php on line 7
+[20-Sep-2014 22:27:07 America/Denver] PHP Warning:  include(): Failed opening 'groupAutoComplete.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/index.php on line 7
+[20-Sep-2014 22:28:42 America/Denver] PHP Warning:  include(): Failed opening 'groupAutoComplete.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/index.php on line 7
+[26-Sep-2014 21:33:55 America/Denver] PHP Notice:  Undefined variable: team in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 39
+[26-Sep-2014 21:33:59 America/Denver] PHP Fatal error:  Call to undefined function generateAutocompleteArray() in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 30
+[26-Sep-2014 21:36:47 America/Denver] PHP Notice:  Array to string conversion in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 22
+[26-Sep-2014 21:36:50 America/Denver] PHP Notice:  Array to string conversion in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 22
+[28-Sep-2014 05:26:02 America/Denver] PHP Notice:  Undefined index: sport in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 3
+[28-Sep-2014 05:26:58 America/Denver] PHP Notice:  Undefined index: sport in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 3
+[28-Sep-2014 05:28:23 America/Denver] PHP Notice:  Undefined index: sport in /home2/ezvetnot/public_html/jazz/Autocomplete/autocomplete/sportsTeams.php on line 3

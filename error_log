@@ -1,0 +1,539 @@
+[16-Mar-2015 21:06:16 America/Denver] PHP Fatal error:  Call to undefined method mysqli::mysqli_commit() in /home2/ezvetnot/public_html/devjazz/updateBandContact.php on line 35
+[16-Mar-2015 21:14:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 18:11:50 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[17-Mar-2015 18:11:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 18:11:50 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[17-Mar-2015 18:28:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 18:29:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 18:31:44 America/Denver] PHP Notice:  Undefined variable: log in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:31:44 America/Denver] PHP Fatal error:  Call to a member function LogInfo() on a non-object in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:31:47 America/Denver] PHP Notice:  Undefined variable: log in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:31:47 America/Denver] PHP Fatal error:  Call to a member function LogInfo() on a non-object in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:31:53 America/Denver] PHP Notice:  Undefined variable: log in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:31:53 America/Denver] PHP Fatal error:  Call to a member function LogInfo() on a non-object in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:32:57 America/Denver] PHP Notice:  Undefined variable: log in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 18:32:57 America/Denver] PHP Fatal error:  Call to a member function LogInfo() on a non-object in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[17-Mar-2015 19:08:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 19:08:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 19:08:45 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 19:08:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[17-Mar-2015 19:08:48 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 04:22:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:29:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:32:18 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[18-Mar-2015 11:32:18 America/Denver] PHP Notice:  Undefined variable: userAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 34
+[18-Mar-2015 11:32:18 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[18-Mar-2015 11:32:31 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[18-Mar-2015 11:32:31 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:32:31 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[18-Mar-2015 11:32:36 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:32:41 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:32:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:33:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:33:32 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:36:31 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:31 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:38 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:38 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:44 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:44 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:50 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:36:50 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:37:44 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:37:44 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:37:46 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:37:47 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:37:52 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:39:24 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:39:27 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:41:15 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:41:16 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:41:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:41:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:43:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:44:35 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[18-Mar-2015 11:44:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:44:35 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[18-Mar-2015 11:44:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 11:44:55 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 11:45:51 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/ezvetnot/public_html/devjazz/addLocation.php on line 24
+[18-Mar-2015 19:08:54 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[18-Mar-2015 19:08:54 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[18-Mar-2015 19:08:54 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[19-Mar-2015 14:08:34 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 14:09:27 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 14:09:42 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 14:10:28 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 14:13:38 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:31:30 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:31:52 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:32:06 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:32:45 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:36:35 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[19-Mar-2015 18:36:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:36:35 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[19-Mar-2015 18:36:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:37:09 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:40:03 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:40:38 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:40:51 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:42:44 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:43:18 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:43:43 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:45:49 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:45:59 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:46:14 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[19-Mar-2015 18:46:31 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:51:39 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[19-Mar-2015 18:51:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:51:39 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[19-Mar-2015 18:51:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:52:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:54:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:54:17 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:56:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:57:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:57:08 America/Denver] PHP Warning:  require_once(views/driver-schedule.php): failed to open stream: No such file or directory in /home2/ezvetnot/public_html/devjazz/DriverSchedule.php on line 21
+[19-Mar-2015 18:57:08 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'views/driver-schedule.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/devjazz/DriverSchedule.php on line 21
+[19-Mar-2015 18:57:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 18:57:55 America/Denver] PHP Warning:  require_once(views/driver-schedule.php): failed to open stream: No such file or directory in /home2/ezvetnot/public_html/devjazz/DriverSchedule.php on line 20
+[19-Mar-2015 18:57:55 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'views/driver-schedule.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/ezvetnot/public_html/devjazz/DriverSchedule.php on line 20
+[19-Mar-2015 19:04:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:05:34 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:05:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:06:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:07:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:09:58 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:11:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:11:17 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:12:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:14:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:15:05 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:15:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:16:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:16:49 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:16:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:17:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:18:30 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:19:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:20:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:22:05 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:22:23 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:22:28 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[19-Mar-2015 19:22:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:22:28 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[19-Mar-2015 19:23:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[19-Mar-2015 19:24:58 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 05:11:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 05:31:14 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 05:31:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 05:31:14 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 05:31:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 05:31:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 05:31:33 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:36:16 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 06:36:16 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:36:16 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 06:37:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:37:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:37:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:37:58 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:38:02 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 06:38:45 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:01:25 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 07:01:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:01:26 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 07:01:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:01:44 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:07:30 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:08:02 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:08:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:09:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:11:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:11:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:14:52 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:15:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:16:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:17:57 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:18:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:19:36 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:19:57 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:20:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:22:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:24:57 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:25:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:25:54 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:26:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:26:31 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:26:40 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:27:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:27:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:27:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:29:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:29:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:30:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:31:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:32:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:32:49 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:34:04 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:36:56 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:37:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:38:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:38:44 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:39:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:39:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:52:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 07:52:23 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 08:59:36 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:00:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:00:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:01:51 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:03:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:10:02 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:13:56 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:14:42 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:15:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:15:38 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:41:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 09:41:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:41:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 09:41:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:41:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:43:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:45:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:45:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:46:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:47:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:48:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:52:05 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 09:52:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:24:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:24:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:24:47 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 10:24:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:24:47 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 10:25:09 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:25:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:25:14 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 10:25:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:25:14 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 10:25:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:25:44 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:28:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:28:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:28:06 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:28:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:31:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:32:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:32:16 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:33:37 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:33:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:35:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:35:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:42:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:42:37 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:45:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:45:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:50:17 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:50:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:50:37 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 10:53:30 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:53:32 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:53:48 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 10:55:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:55:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 10:55:48 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 10:56:05 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 11:02:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:02:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:03:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:03:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:04:32 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:12:40 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:13:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:13:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:13:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:14:23 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:14:40 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:15:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:17:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:21:06 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:27:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:28:17 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:28:17 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:19 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:28:19 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:27 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:28:27 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:27 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:39 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:28:39 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:40 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:28:40 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:28:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:29:20 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:29:20 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:29:20 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:29:30 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:29:30 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:29:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:30:14 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 28
+[20-Mar-2015 11:30:14 America/Denver] PHP Notice:  Undefined variable: db in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:30:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/ezvetnot/public_html/devjazz/class/class-DAO.php on line 30
+[20-Mar-2015 11:32:09 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:32:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:32:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 11:32:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:32:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 11:32:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:37:49 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:42:40 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 11:42:57 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 11:43:52 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:44:20 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 11:45:38 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:46:00 America/Denver] PHP Notice:  Undefined variable: rdt in /home2/ezvetnot/public_html/devjazz/fillRoster.php on line 33
+[20-Mar-2015 11:47:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:59:41 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 11:59:49 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:40 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:53 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:53 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:02:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 12:26:54 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:27:26 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:27:50 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:27:56 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:28:03 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:28:15 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 12:29:05 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 14:16:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:16:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:16:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:16:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:36:00 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:36:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:36:00 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:37:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:37:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:48:11 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:49:52 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:49:52 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:49:52 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:52:32 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:52:32 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:52:32 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:53:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:53:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:53:46 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:53:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:53:46 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:53:47 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:53:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:53:47 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:54:10 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:54:12 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:55:12 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 14:55:12 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 14:55:12 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 14:55:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:00:21 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:00:21 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:00:21 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:00:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:00:34 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:12:44 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:12:44 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:12:44 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:19:54 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:19:54 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:19:54 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:19:55 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:19:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:19:55 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:19:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:22:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:22:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:22:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:22:21 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:22:21 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:22:21 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:22:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:22:23 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:26:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:26:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:26:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 15:27:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 15:27:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 15:27:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 16:11:09 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 16:11:09 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:11:09 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 16:12:34 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 16:12:34 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:12:34 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 16:12:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:13:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:13:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 16:13:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:13:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 16:13:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:13:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:14:34 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:51:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 16:51:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:51:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[20-Mar-2015 16:51:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:53:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:53:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 16:53:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 18:39:28 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 18:39:46 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[20-Mar-2015 18:46:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 19:39:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 19:40:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[20-Mar-2015 19:40:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[20-Mar-2015 19:40:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[21-Mar-2015 09:35:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[21-Mar-2015 09:35:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[21-Mar-2015 09:35:19 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[21-Mar-2015 09:35:20 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[21-Mar-2015 09:35:20 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[21-Mar-2015 09:35:20 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[21-Mar-2015 09:35:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:35:01 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 05:35:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:35:01 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 05:35:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:35:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:43:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:47:25 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 05:47:25 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:47:25 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 05:47:33 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:47:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:49:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 05:59:38 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 06:00:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:03:03 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:23:34 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[22-Mar-2015 08:23:37 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[22-Mar-2015 08:26:20 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[22-Mar-2015 08:29:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:51:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:56:27 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:56:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 08:57:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:01:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:02:37 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:05:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:14:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:35:24 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 09:35:24 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:35:24 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 09:35:31 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:38:18 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 09:38:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:38:18 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 09:38:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 09:40:52 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:04:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:04:47 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:04:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:16:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:18:17 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:18:58 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:34:43 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:34:59 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:36:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:36:54 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:37:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:37:12 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:38:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:39:54 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:40:09 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:41:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:42:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:42:40 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:45:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:45:18 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:46:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:47:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:49:45 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:50:29 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:54:39 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:58:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 10:59:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 11:01:48 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 11:03:00 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 11:03:55 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:13:44 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:13:44 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:13:44 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:13:45 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:13:45 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:13:45 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:13:46 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:13:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:13:46 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:13:56 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:14:08 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:14:10 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:17:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:17:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:17:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:17:57 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:21:16 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:21:16 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:21:16 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:21:28 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:21:37 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:25:52 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[22-Mar-2015 12:30:03 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:30:03 America/Denver] PHP Notice:  Undefined variable: userAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 34
+[22-Mar-2015 12:30:03 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:30:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:30:07 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:30:07 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:30:22 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:30:35 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:31:06 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:33:02 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting identifier (T_STRING) in /home2/ezvetnot/public_html/devjazz/delTripContact2.php on line 11
+[22-Mar-2015 12:38:05 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:38:37 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:38:50 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:43:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:44:17 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:45:11 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:45:14 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:48:15 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:49:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:52:09 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 12:52:09 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:52:09 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 12:52:22 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:52:46 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:52:48 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 12:55:38 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 13:00:05 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 13:01:26 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 13:04:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 18
+[22-Mar-2015 13:04:13 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 13:04:13 America/Denver] PHP Notice:  Undefined index: user in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 85
+[22-Mar-2015 13:04:19 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
+[22-Mar-2015 13:06:01 America/Denver] PHP Notice:  Undefined variable: pageAccess in /home2/ezvetnot/public_html/devjazz/elements/above-content.php on line 33
